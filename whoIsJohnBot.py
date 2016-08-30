@@ -50,6 +50,6 @@ except KeyboardInterrupt:
 
 print("It's finally over. Closing speech file.")
 
-speech.close()
+wordSource.close()
 
 print("Tata!")
